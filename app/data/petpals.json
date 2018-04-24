@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Archer",
+        "photo": "https://brevity-is.com/img/team/3a.jpg",
+        "scores": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "Ella",
+        "photo": "../public/img/ella.jpg",
+        "scores": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    }
+]
