@@ -1,0 +1,1 @@
+var array = [{ "abb": { "name": "abb", "photo": "asdasdad", "scores": ["2", "5", "3", "2", "3", "5", "3", "2", "5", "2"] }, "asdasd": { "name": "asdasd", "photo": "asdasdad", "scores": ["2", "5", "3", "2", "3", "5", "3", "2", "5", "2"] } }]
