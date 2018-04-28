@@ -10,3 +10,9 @@ Try it out [Here!](https://petpalfinder2021.herokuapp.com/)
 - Express JS
 - Firebase 
 - Body-Parser
+
+# What I learned
+- How to setup the process.env to redirect to the correct port so that the app runs on Heroku. 
+- How to use server.js to organize and connect files through requiring modules and paths. 
+- You can send a POST Request and a GET request to the same route. 
+
